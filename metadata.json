@@ -1,0 +1,6 @@
+{
+  "name": "The Hazelnut Factory Website",
+  "description": "A premium, modern, luxury café and artisanal dessert website for The Hazelnut Factory (THF) in Jalghar, Varanasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
